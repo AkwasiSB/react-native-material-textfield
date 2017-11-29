@@ -6,7 +6,7 @@ import styles from './styles';
 
 export default class Helper extends PureComponent {
   static defaultProps = {
-    numberOfLines: 1,
+    numberOfLines: 3,
   };
 
   static propTypes = {
